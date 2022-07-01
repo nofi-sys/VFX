@@ -1,4 +1,4 @@
-# VFX
+# VFX-TOOLS
 # Una suite de herramientas para la postproducción audiovisual.
 
 #Para una idea de lo que estoy haciendo y cómo funciona la suite: https://www.estudionofi.com/NOFI-MIDI-01
